@@ -1,5 +1,5 @@
 # Headline_Hindsight
-Irti Haq| Andrew Simon | Jeleen Limawan | Joeph Rafael
+Irti Haq | Andrew Simon | Jeleen Limawan | Joeph Rafael
 
 Original Notebook: https://colab.research.google.com/drive/1GdG6mq2tDLAWhj9I-Gkv2TWDhMfmj9Xm?authuser=2#scrollTo=2ELJONJmxkDj
 
