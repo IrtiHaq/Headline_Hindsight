@@ -3,7 +3,7 @@ Irti Haq | Andrew Simon | Jeleen Limawan | Joeph Rafael
 
 Original Notebook: https://colab.research.google.com/drive/1GdG6mq2tDLAWhj9I-Gkv2TWDhMfmj9Xm?authuser=2#scrollTo=2ELJONJmxkDj
 
-Video Demonstration: https://youtu.be/Jx4vaVxZVG8 
+Video Demonstration: [https://youtu.be/Jx4vaVxZVG8 ](https://youtu.be/plPVwVuFuPw)
 
 News headlines are used to capture attention, summarize, and inform readers of current events or they can be used to deceive, misinform, and manipulate us. If taken advantage of they provide us with a glimpse into the past and when used right can be one of the greatest orators of history; creating a microcosm that captures a period unlike anything else. 2016 to 2020 has for the most part been one of the most turbulent, interesting, and contentious periods in the 21st century. We have had everything from the election of Donald Trump, Brexit, and the start of the COVID-19 Pandemic. 
 
