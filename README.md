@@ -49,4 +49,4 @@ Given the size of our dataset, we had to preprocess the dataset in order to use 
 - converted numpy matrixes to data frames
 - took a sample of the dataset, due to its overwhelming size
 
-All of The Code used to Pre-Process the Dataset and Train the model can be found in the NMF_CP2 Jupyter Notebook [Link](https://colab.research.google.com/drive/1RM6nXakddB3tf3MZPiWBKclSaAum9c9_?authuser=2#scrollTo=Ruvyu_kj6U5V)
+All of The Code used to Pre-Process the Dataset and Train the model can be found in the NMF_CP2 Jupyter Notebook [Link](https://github.com/IrtiHaq/Headline_Hindsight/blob/main/NLP_Model.ipynb)
